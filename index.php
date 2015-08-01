@@ -30,10 +30,10 @@ jQuery(function($) { $('ul.gallery').galleria(); });
 			
             
         <ul class="gallery"> 
-			<li><img src="./images/1.jpg" title="An HDR Field" alt="1"></li> 
-            <li><img src="./images/2.jpg" title="Nice Sky HDR" alt="2"></li> 
-            <li><img src="./images/3.jpg" title="Cool Colors" alt="3"></li> 
-            <li><img src="./images/4.jpg" title="Indoors" alt="4"></li> 
+			<li><img src="./images/1.gif" title="An HDR Field" alt="1"></li> 
+            <li><img src="./images/2.gif" title="Nice Sky HDR" alt="2"></li> 
+            <li><img src="./images/3.gif" title="Cool Colors" alt="3"></li> 
+            <li><img src="./images/4.GIF" title="Indoors" alt="4"></li> 
 		</ul>
             
             
